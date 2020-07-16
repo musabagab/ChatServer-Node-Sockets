@@ -1,0 +1,19 @@
+{
+  "name": "musabapps",
+  "version": "1.0.0",
+  "description": "chat server for flutter app with socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musabagab/ChatServer-Node-Sockets.git"
+  },
+  "author": "musabagab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musabagab/ChatServer-Node-Sockets/issues"
+  },
+  "homepage": "https://github.com/musabagab/ChatServer-Node-Sockets#readme"
+}
